@@ -1,0 +1,38 @@
+# Ignorar outros templates do pacote
+html/02.ai-image/
+html/03.ai-chatbot/
+html/04.ai-solutions/
+html/05.neural-networks/
+html/06.ai-video/
+html/07.ai-voice-generator/
+html/08.ai-startup/
+html/09.ai-consulting/
+html/10.ai-video-voiceover/
+
+# Ignorar documentação do template
+documentation/
+
+# Arquivos do sistema
+.DS_Store
+*.log
+*.swp
+*.swo
+*~
+
+# Arquivos temporários
+*.tmp
+.cache/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node modules (se houver)
+node_modules/
+
+# Arquivos de ambiente
+.env
+.env.local
+
